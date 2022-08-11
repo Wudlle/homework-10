@@ -1,0 +1,6 @@
+Misak,Minasyan,21,56.13
+Vigen,Vigenyan,33,5.13
+Gohar,Goharyan,32,45.5
+Vahan,Vahanyan,40,855
+Alek,Alekyan,16,45.1
+Mher,Mheryan,16,45
